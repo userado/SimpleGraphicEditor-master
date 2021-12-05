@@ -1,0 +1,13 @@
+d:/My Documents/Profile/Test/PFSOFT/PFEditor/PFEditor/bin/Debug/PFEditor.exe.config
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/bin/Debug/PFEditor.exe.config
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/bin/Debug/PFEditor.exe
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/bin/Debug/PFEditor.pdb
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.csprojAssemblyReference.cache
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.frmAbout.resources
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.frmMain.resources
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.frmNewDrawing.resources
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.Properties.Resources.resources
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.csproj.GenerateResource.cache
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.csproj.CoreCompileInputs.cache
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.exe
+/home/blindspot/Downloads/SimpleGraphicEditor-master/PFEditor/obj/Debug/PFEditor.pdb

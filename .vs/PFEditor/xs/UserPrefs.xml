@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8C631175-5BD7-4A79-833B-905A69B66AE4}|Default">
+  <MonoDevelop.Ide.ItemProperties.PFEditor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PFEditor/frmMain.cs">
+    <Files>
+      <File FileName="PFEditor/Exceptions/ShapeException.cs" Line="6" Column="27" />
+      <File FileName="PFEditor/Exceptions/MyCanvasException.cs" Line="6" Column="86" />
+      <File FileName="PFEditor/frmMain.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PFEditor" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
